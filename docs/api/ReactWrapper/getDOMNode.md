@@ -1,6 +1,6 @@
 # `.getDOMNode() => DOMComponent`
 
-Returns the outer most DOMComponent of the current wrapper.
+Returns the outermost DOMComponent of the current wrapper.
 
 Notes:
 - can only be called on a wrapper of a single node.
